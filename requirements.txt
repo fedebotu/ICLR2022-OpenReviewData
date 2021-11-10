@@ -1,0 +1,8 @@
+selenium
+pandas
+seaborn
+tabulate
+imageio
+wordcloud
+tqdm
+chromedriver
