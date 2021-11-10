@@ -13,7 +13,7 @@ This Jupyter Notebook contains the data crawled from ICLR 2022 OpenReview webpag
 ## Prerequisites
 - `python` 3.7
 - Install requirements with `pip install -r requirements.txt`
-  * NOTE: You can also use [edgewebdriver`](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) on Windows environments by changing the `path` variable in the `.py` scripts
+  * NOTE: You can also use [edgewebdriver](https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) on Windows environments by changing the `path` variable in the `.py` scripts
 
 
 ## Crawl Data
@@ -3327,7 +3327,9 @@ Number of submissions: 3262 (Collected at 10/11/2021 09:42 PM UTC+9).
 ## Acknowledgments
 
 Visualizations are inspired by this repo: https://github.com/shaohua0116/ICLR2020-OpenReviewData.
+
 Also thanks to the more recent repo: https://github.com/evanzd/ICLR2021-OpenReviewData
+
 There was also a PR on the last repo for updating to ICLR 2022: https://github.com/evanzd/ICLR2021-OpenReviewData/pull/3
 
 ## Feedback
